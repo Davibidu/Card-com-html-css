@@ -2,7 +2,7 @@
 
 ![preview](./preview.png)
 
-> projeto com cards de noticias   
+> Projeto com cards de noticias   
 
 [ 🔗 Clique aqui para acessar](https://Davibidu.github.io/Card-com-html-css) 
 
