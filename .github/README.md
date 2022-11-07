@@ -1,4 +1,4 @@
-# Card Noticias
+# Card Noticia
 
 ![preview](./preview.png)
 
